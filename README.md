@@ -25,7 +25,7 @@ Your users should be able to:
 
 ### Links
 
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages](https://kr0ma-git.github.io/Frontend-Mentor-Challenge-2/)
 
 ### Built with
 
